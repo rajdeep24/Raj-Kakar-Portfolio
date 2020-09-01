@@ -52,6 +52,15 @@ body {
 	margin-bottom: 35px;
 }
 
+/* Portfolio Styling */
+.card-img-top {
+	padding: 10px;
+	padding-bottom: 35px;
+}
+.card {
+	border: none;
+}
+
 /*-------X-------Main Content Styling------X------*/
 
 /*--------------Footer Styling------------------- */
