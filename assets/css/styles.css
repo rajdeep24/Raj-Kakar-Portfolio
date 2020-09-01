@@ -1,11 +1,14 @@
 /*-------------Global Styling-------------*/
-
-/*------x-------Global Styling------x-------*/
 body {
 	height: auto;
 	width: 100vw;
 	background-image: url("../images/ignasi_pattern_s.png");
 }
+img {
+	width: 100%;
+}
+/*------x-------Global Styling------x-------*/
+
 /*------------- Navigation Styling----------- */
 
 /* Navbar-Brand Styling */
