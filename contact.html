@@ -1,11 +1,6 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js">
-	<!--<![endif]-->
 
+<html class="no-js">
 	<head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -74,47 +69,86 @@
 					<div class="col-sm-10 bg-light" id="content-col">
 						<div class="row">
 							<div class="col-sm-12">
-								<h1 id="contact">Contact</h1>
+								<header>
+									<h1 id="contact">Contact</h1>
+								</header>
 								<hr />
 								<div class="row">
 									<div class="col-sm-9">
-										<form>
-											<div class="form-group">
-												<label for="exampleInputName1">Name</label>
-												<input
-													type="name"
-													class="form-control"
-													id="exampleInputName1"
-													aria-describedby="emailHelp"
-													placeholder="Name"
-												/>
-											</div>
-											<div class="form-group">
-												<label for="exampleInputEmail1">Email address</label>
-												<input
-													type="email"
-													class="form-control"
-													id="exampleInputEmail1"
-													aria-describedby="emailHelp"
-													placeholder="Email"
-												/>
-											</div>
-											<div class="form-group">
-												<label for="exampleFormControlTextarea1">Message</label>
-												<textarea
-													class="form-control"
-													id="exampleFormControlTextarea1"
-													rows="3"
-													placeholder="Message"
-												></textarea>
-											</div>
-											<button type="submit" class="btn btn-primary">Submit</button>
-										</form>
+										<!-- This is the start of the contact form: Leveraged from getbootstrap documentation -->
+										<section>
+											<form>
+												<div class="form-group">
+													<label for="exampleInputName1">Name</label>
+													<input
+														type="name"
+														class="form-control"
+														id="exampleInputName1"
+														aria-describedby="emailHelp"
+														placeholder="Name"
+													/>
+												</div>
+												<div class="form-group">
+													<label for="exampleInputEmail1">Email address</label>
+													<input
+														type="email"
+														class="form-control"
+														id="exampleInputEmail1"
+														aria-describedby="emailHelp"
+														placeholder="Email"
+													/>
+												</div>
+												<div class="form-group">
+													<label for="exampleFormControlTextarea1">Message</label>
+													<textarea
+														class="form-control"
+														id="exampleFormControlTextarea1"
+														rows="3"
+														placeholder="Message"
+													></textarea>
+												</div>
+												<button type="submit" class="btn btn-primary">Submit</button>
+											</form>
+										</section>
 									</div>
+									<!-- Social Media Links -->
 									<div class="col-sm-3">
-										<div class="row">
-											<div class="card" class="card" style="width: 18rem"></div>
-										</div>
+										<aside>
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="card border">
+														<div class="card-header text-center">
+															<p id="card-text">Social</p>
+														</div>
+														<ul class="list-group align-items-center">
+															<li class="list-group-item border-0">
+																<a
+																	href="https://www.linkedin.com/in/raj-kakar-ba2a3b1a/"
+																	target="_blank"
+																	><img
+																		src="./assets/images/social_media_fonts/linkedin.svg"
+																		alt="linkedin Icon"
+																/></a>
+															</li>
+															<li class="list-group-item border-0">
+																<a href="https://github.com/rajdeep24" target="_blank"
+																	><img
+																		src="./assets/images/social_media_fonts/github.svg"
+																		alt="Github icon"
+																/></a>
+															</li>
+															<li class="list-group-item border-0">
+																<a href="https://twitter.com/Raj_Kakar" target="_blank"
+																	><img
+																		src="./assets/images/social_media_fonts/twitter.svg"
+																		alt="linkedin Icon"
+																/></a>
+															</li>
+														</ul>
+													</div>
+												</div>
+											</div>
+										</aside>
 									</div>
 								</div>
 							</div>
