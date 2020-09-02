@@ -31,19 +31,19 @@ Below are screen shots of the website from a mobile and desktop perspective:
 
 ### Mobile
 
-![About-Me-page](/assets/images/app_screen_shots/mobile_view_about.png)
+![About-Me-page](/assets/images/app_screen_shots/mobile_view_about.PNG)
 
-![Contact-page](/assets/images/app_screen_shots/mobile_view_contact.png)
+![Contact-page](/assets/images/app_screen_shots/mobile_view_contact.PNG)
 
-![Portfolio-page](/assets/images/app_screen_shots/mobile_view_portfolio.png)
+![Portfolio-page](/assets/images/app_screen_shots/mobile_view_portfolio.PNG)
 
 ### Desktop
 
-![About-Me-page](/assets/images/app_screen_shots/desktop_view_about.png)
+![About-Me-page](/assets/images/app_screen_shots/desktop_view_about.PNG)
 
-![Contact-page](/assets/images/app_screen_shots/desktop_view_contact.png)
+![Contact-page](/assets/images/app_screen_shots/desktop_view_contact.PNG)
 
-![Portfolio-page](/assets/images/app_screen_shots/desktop_view_portfolio.png)
+![Portfolio-page](/assets/images/app_screen_shots/desktop_view_portfolio.PNG)
 
 ## Credits
 
